@@ -1,0 +1,13 @@
+.li {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-weight: bold;
+}
+
+.button {
+  padding: 2px 4px;
+  text-align: center;
+  cursor: pointer;
+  border-radius: 5px;
+}
